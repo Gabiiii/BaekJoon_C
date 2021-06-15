@@ -1,11 +1,11 @@
-// 11718 ±×´ë·Î Ãâ·ÂÇÏ±â
+// 11718 ê·¸ëŒ€ë¡œ ì¶œë ¥í•˜ê¸°
 #include <stdio.h>
 void main(){
 	char inp;
 	inp = getchar();
 
 	while(inp != EOF){
-		putchar(input);
+		putchar(inp);
 		inp = getchar();
 	}
 }
